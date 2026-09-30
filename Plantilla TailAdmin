@@ -1,0 +1,5 @@
+-- Se descomprime y se abre en VS Code
+-- Se instalan las dependencias npm i
+
+-- Si se copian algunos componentes a otro proyecto, es necesario cambiar/eliminar lang="ts" en Script,
+además de instalar las dependencias como dropzone
